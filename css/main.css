@@ -32,8 +32,9 @@ h3 {
 }
 p {
   margin-left: 1rem;
-  color: wheat;
+  color: #ffb997;
   width: 100%;
+  font-size: large;
 }
 ul {
   width: 100%;
